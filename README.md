@@ -72,8 +72,8 @@ This analysis identifies critical factors driving customer churn and provides ac
 
 ## Author
 Shreya Arutla
-- GitHub:
-- LinkedIn:
+- GitHub:https://github.com/Sarutla0227
+- LinkedIn:https://www.linkedin.com/in/shreya-arutla-361b601a3/
 
 ## Project Highlights
 - End-to-end data analysis using Python and SQL
