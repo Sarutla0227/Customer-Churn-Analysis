@@ -56,7 +56,8 @@ SQL queries were used to:
 ![Churn by Payment](images/Churn_payment.png)
 ![Satisfaction vs Churn](images/Churn_SatisfactionScore.png)
 
-
+## Dasboard Preview
+![Customer Churn Analysis Dashboard](images/dashboard.png)
 ## Business Recommendations
 - Promote long-term contracts to reduce churn
 - Encourage automatic payment methods
